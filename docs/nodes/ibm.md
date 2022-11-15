@@ -58,6 +58,17 @@ Node classes list of ibm provider.
 - **diagrams.ibm.blockchain.TransactionManager**
 - **diagrams.ibm.blockchain.Wallet**
 
+## ibm.boxes
+
+- **diagrams.ibm.boxes.Classicinfrastructure**
+- **diagrams.ibm.boxes.Cloud**
+- **diagrams.ibm.boxes.Enterprisenetworks**
+- **diagrams.ibm.boxes.Publicnetwork**
+- **diagrams.ibm.boxes.Region**
+- **diagrams.ibm.boxes.Subnetacl**
+- **diagrams.ibm.boxes.Vpc**
+- **diagrams.ibm.boxes.Zone**
+
 ## ibm.compute
 
 - **diagrams.ibm.compute.BareMetalServer**
@@ -226,3 +237,31 @@ Node classes list of ibm provider.
 - **diagrams.ibm.user.PhysicalEntity**
 - **diagrams.ibm.user.Sensor**
 - **diagrams.ibm.user.User**
+
+## ibm.vpc
+
+- **diagrams.ibm.vpc.BareMetalServer**
+- **diagrams.ibm.vpc.BlockStorage**
+- **diagrams.ibm.vpc.Bridge**
+- **diagrams.ibm.vpc.CloudServices**
+- **diagrams.ibm.vpc.Datacenter**
+- **diagrams.ibm.vpc.DirectLink**
+- **diagrams.ibm.vpc.Enterprise**
+- **diagrams.ibm.vpc.FloatingIp**
+- **diagrams.ibm.vpc.ImageService**
+- **diagrams.ibm.vpc.Instance**
+- **diagrams.ibm.vpc.InternetServices**
+- **diagrams.ibm.vpc.Internet**
+- **diagrams.ibm.vpc.Key**
+- **diagrams.ibm.vpc.LoadBalancerListener**
+- **diagrams.ibm.vpc.LoadBalancerPool**
+- **diagrams.ibm.vpc.LoadBalancer**
+- **diagrams.ibm.vpc.ObjectStorage**
+- **diagrams.ibm.vpc.PowerInstance**
+- **diagrams.ibm.vpc.PublicGateway**
+- **diagrams.ibm.vpc.Router**
+- **diagrams.ibm.vpc.Rules**
+- **diagrams.ibm.vpc.TransitGateway**
+- **diagrams.ibm.vpc.VpnConnection**
+- **diagrams.ibm.vpc.VpnGateway**
+- **diagrams.ibm.vpc.VpnPolicy**
